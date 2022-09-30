@@ -1,6 +1,7 @@
 #include <stdlib.h>
 #include <stdio.h>
-#inlude "main.h"
+#include <stdio.h>
+
 /**
  * main - a program that multiplies two arguments passed into it
  *
